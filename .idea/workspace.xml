@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55638726-63e5-45ee-9c7a-13d79fb67844" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/BookingDates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/createBookingRequestSchema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/createBookingResponseSchema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BookingTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="55638726-63e5-45ee-9c7a-13d79fb67844" name="Changes" comment="OK results from DIO project - API tests" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,10 +179,20 @@
       <option name="presentableId" value="Default" />
       <updated>1673275688639</updated>
     </task>
+    <task id="LOCAL-00001" summary="OK results from DIO project - API tests">
+      <created>1673424040504</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673424040504</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="OK results from DIO project - API tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="OK results from DIO project - API tests" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
