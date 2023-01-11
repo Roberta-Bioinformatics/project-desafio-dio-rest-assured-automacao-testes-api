@@ -17,7 +17,7 @@ Além disso, foi utilizado JsonServer para simular uma API, sendo:<br/>
 :heavy_check_mark: IDE: IntelliJ.<br/>
 :heavy_check_mark: Allure Framework.<br/>  
 
-<br/>***<h2> ▶️ Automatização com Rest Assured compreendeu os seguintes itens:</h2>***<br/>
+<br/>***<h2>  Automatização com Rest Assured compreendeu os seguintes itens:</h2>***<br/>
 :heavy_check_mark: Realizando endpoints com o Postman para as collections.</br>
 :heavy_check_mark: Desenvolvida suíte de testes cobrindo todos os endpoints da documentação.</br>
 :heavy_check_mark: Gerado report utilizando o Allure Framework.</br>
