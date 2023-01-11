@@ -413,7 +413,8 @@
 					{
 						"key": "Cookie",
 						"value": "token=17bc6e990858118",
-						"type": "text"
+						"type": "text",
+						"disabled": true
 					}
 				],
 				"body": {
@@ -445,19 +446,7 @@
 			"name": "Booking - UpdateBooking",
 			"request": {
 				"auth": {
-					"type": "basic",
-					"basic": [
-						{
-							"key": "password",
-							"value": "password123",
-							"type": "string"
-						},
-						{
-							"key": "username",
-							"value": "admin",
-							"type": "string"
-						}
-					]
+					"type": "noauth"
 				},
 				"method": "PUT",
 				"header": [
@@ -474,7 +463,7 @@
 					},
 					{
 						"key": "Cookie",
-						"value": "token=1b39e4847fb0a08",
+						"value": "token=76b247db7c2d4ab",
 						"type": "text"
 					}
 				],
@@ -567,7 +556,19 @@
 			},
 			"request": {
 				"auth": {
-					"type": "noauth"
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "password123",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "admin",
+							"type": "string"
+						}
+					]
 				},
 				"method": "PATCH",
 				"header": [
@@ -585,7 +586,8 @@
 					{
 						"key": "Cookie",
 						"value": "token=ee0f20149432f98",
-						"type": "text"
+						"type": "text",
+						"disabled": true
 					}
 				],
 				"body": {
