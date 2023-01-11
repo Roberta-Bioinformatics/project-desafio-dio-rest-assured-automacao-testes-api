@@ -37,7 +37,7 @@ Além disso, foi utilizado JsonServer para simular uma API, sendo:<br/>
 
 <br/>***<h2> :pencil: Observação: </h2>***
 Os desenvolvimentos das etapas e dos documentos propostos foram realizados 
-com o acompanhamento 💗<br/>das instruções do projeto e revisão das aulas. 💛 👩‍💻 🧡
+com o acompanhamento e anotações 💗<br/>das instruções do projeto e revisão das aulas e pesquisas. 💛 👩‍💻 🧡
   
 <h3 align="center"> {✿◠‿◠} Muita gratidão! ✨🤗✨<br/><h3>  
 
