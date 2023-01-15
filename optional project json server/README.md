@@ -1,7 +1,7 @@
 <h1 align="center"> :blue_heart: Diretório referente ao Desafio de Projeto Opcional - DIO. :blue_heart:<br/>
  </h1>
 
-<h2 align="center"> 💛 👩‍💻 🧡 Indo além com Json Server.<br/>Projeto considerado como opcional ao projeto obrigatório. 💛 👩‍💻 🧡 </h2><br/>
+<h2 align="center"> 💛👩‍💻🧡 Indo além com Json Server.<br/>Projeto considerado como opcional ao projeto obrigatório. 🧡👩‍💻💛 </h2><br/>
 
 ***<h2> 📚 Objetivo do projeto: </h2>***
 
