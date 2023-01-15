@@ -1,0 +1,111 @@
+{
+	"info": {
+		"_postman_id": "deda7c90-e9ac-4f87-96de-ecc92a512145",
+		"name": "Restfull Json Server Test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25235374"
+	},
+	"item": [
+		{
+			"name": "Auth  user Json Server",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {}
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"email\" : \"olivier@mail.com\" ,\r\n   \"password\" : \" bestPassw0rd \" ,\r\n   \"firstname\" : \" Olivier \" ,\r\n   \"lastname\" : \" Monge \" ,\r\n   \"age\" : 32 \r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url json server}}/register",
+					"host": [
+						"{{url json server}}"
+					],
+					"path": [
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "User login Json Server",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"email\" : \"olivier@mail.com\" ,\r\n   \"password\" : \" bestPassw0rd \" ,\r\n   \"firstname\" : \" Olivier \" ,\r\n   \"lastname\" : \" Monge \" ,\r\n   \"age\" : 32 \r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url json server}}login",
+					"host": [
+						"{{url json server}}login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "User routes Json Server",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"users\": 600,\r\n  \"messages\": 640\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url json server}}",
+					"host": [
+						"{{url json server}}"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}

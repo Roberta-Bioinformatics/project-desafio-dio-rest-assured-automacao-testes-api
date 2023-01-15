@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$GK0WgvjyOgmZDgKB/F6.jequrccpYkID/edgVEfhR9mlQ3eLuveXa",
+      "firstname": " Olivier ",
+      "lastname": " Monge ",
+      "age": 32,
+      "id": 1
+    }
+  ],
+  "booking": [
+    {
+      "firstname": "Sandra",
+      "lastname": "Lira",
+      "totalprice": 111,
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "2018-01-01",
+        "checkout": "2019-01-01"
+      },
+      "additionalneeds": "Breakfast"
+    }
+  ]
+}

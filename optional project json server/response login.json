@@ -1,0 +1,10 @@
+{
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im9saXZpZXJAbWFpbC5jb20iLCJpYXQiOjE2NzM3Mjk1NjEsImV4cCI6MTY3MzczMzE2MSwic3ViIjoiMSJ9.kcK1_4PfB7Q2th1-kwdc5TZ8MY3A18VjwbLwFerf0Do",
+  "user": {
+    "email": "olivier@mail.com",
+    "firstname": " Olivier ",
+    "lastname": " Monge ",
+    "age": 32,
+    "id": 1
+  }
+}
