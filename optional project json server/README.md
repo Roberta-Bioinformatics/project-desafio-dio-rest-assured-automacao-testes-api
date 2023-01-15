@@ -22,10 +22,10 @@ Você como um excelente QA sabe criar seu próprio server que servirá de base p
 
 **TO DO:**
 
-◆ Incremente a API com outros endpoint.</br>
-◆ Adicione o JSON SERVER no repositório do projeto de automação.</br>
-◆ Você também deverá subir o JSON Server no repositório.</br>
-◆ Crie um README para que as pessoas saibam como usar os endpoints criados e entender seu projeto.</br>
+:clipboard: ◆ Incremente a API com outros endpoint.</br>
+:clipboard: ◆ Adicione o JSON SERVER no repositório do projeto de automação.</br>
+:clipboard: ◆ Você também deverá subir o JSON Server no repositório.</br>
+:clipboard: ◆ Crie um README para que as pessoas saibam como usar os endpoints criados e entender seu projeto.</br>
 
 
 <br/>***<h2> :pencil: Observação: </h2>***
