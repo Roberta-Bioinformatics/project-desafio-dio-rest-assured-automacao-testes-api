@@ -1,7 +1,7 @@
 <h1 align="center"> :blue_heart: Repositório referente ao Desafio de Projeto - DIO. :blue_heart:<br/>
  </h1>
 
-<h2 align="center"> 💛 👩‍💻 🧡 Explorando o Rest Assured Para a Automação de Testes de API. 💛 👩‍💻 🧡 </h2><br/>
+<h2 align="center"> 💛👩‍💻🧡 Explorando o Rest Assured Para a Automação de Testes de API. 🧡👩‍💻💛 </h2><br/>
 
 ***<h2> 📚 Objetivo do projeto: </h2>***
 
@@ -11,11 +11,12 @@ Além disso, foi utilizado JsonServer para simular uma API, sendo:<br/>
 <br/>:blue_book: API utilizada como base:<br/>
 :heavy_check_mark: Restful-booker.<br/> 
 
-:blue_book: Frameworks/tools:<br/>
-:heavy_check_mark: Framework RestAssured + JUnit.<br/> 
-:heavy_check_mark: Json Server (JavaScript).<br/> 
+:blue_book: Frameworks/tools/platform:<br/>
+:heavy_check_mark: Allure Framework.<br/> 
+:heavy_check_mark: Json Server (JavaScript).<br/>
 :heavy_check_mark: IDE: IntelliJ.<br/>
-:heavy_check_mark: Allure Framework.<br/>  
+:heavy_check_mark: Postman.<br/> 
+:heavy_check_mark: RestAssured + JUnit.<br/> 
 
 <br/>***<h2> ▶️ Entrega obrigatória:</h2>***
 :blue_book: Teste manual - explorando API no Postman:<br/>
