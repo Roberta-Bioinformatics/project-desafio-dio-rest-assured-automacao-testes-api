@@ -5,7 +5,7 @@
 
 ***<h2> 📚 Objetivo do projeto: </h2>***
 
-Apresentar a possibilidade da realização de testes desenvolvidos com base em um "mock" da API, no caso da falta dela. Para resolver tal projeto proposto como opcional, foi imaginado uma outra funcionalidade incluída na aplicação. Portanto, com novos endpoints que foram adicionados.<br/>
+Apresentar a possibilidade da realização de testes desenvolvidos com base em um "mock" da API, no caso da ausência dela. Para resolver tal projeto proposto como opcional, foi planejada uma outra funcionalidade incluída na aplicação. Portanto, com novos endpoints que foram adicionados.<br/>
 
 <br/>:blue_book: API de base:<br/>
 :heavy_check_mark: Restful-booker.<br/> 
@@ -18,7 +18,7 @@ Apresentar a possibilidade da realização de testes desenvolvidos com base em u
 
 <br/>***<h2> 📚 Descrição do projeto: </h2>***
 
-Você como um excelente QA sabe criar seu próprio server que servirá de base para criação antecipada dos testes de API e escolheu a ferramenta JSON SERVER.<br/>
+Você como um excelente QA sabe criar seu próprio server, que servirá de base para criação antecipada dos testes de API e escolheu a ferramenta JSON SERVER.<br/>
 
 **TO DO:**
 
