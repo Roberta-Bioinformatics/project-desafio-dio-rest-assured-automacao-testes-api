@@ -34,7 +34,8 @@ Os desenvolvimentos das etapas 💗 e dos documentos foram realizados mediante a
 <h3 align="center"> {✿◠‿◠} Muita gratidão! ✨🤗✨<br/><h3>  
 
 
-![](https://www.nylas.com/wp-content/uploads/JSON_Blog_Hero.png)
+![](https://blog.postman.com/wp-content/uploads/2022/05/How-to-Test-JSON-Properties-in-Postman@2x-1.jpg)
 ![](https://modalgr.com.br/wp-content/uploads/2021/10/postman-platform-for-api-development-social-card.jpg)
 
 ___
+
