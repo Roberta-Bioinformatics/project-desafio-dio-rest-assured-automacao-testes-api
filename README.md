@@ -1,4 +1,4 @@
-<h1 align="center"> :blue_heart: Repositório referente ao Desafio de Projeto - DIO. :blue_heart:<br/>
+<h1 align="center"> :blue_heart: Repositório referente ao Desafio de Projeto - DIO | GFT. :blue_heart:<br/>
  </h1>
 
 <h2 align="center"> 💛👩‍💻🧡 Explorando o Rest Assured Para a Automação de Testes de API. 🧡👩‍💻💛 </h2><br/>
