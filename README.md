@@ -33,7 +33,7 @@ Além disso, foi utilizado JsonServer para simular uma API, sendo:<br/>
 :clipboard: ◆ Incremente a API com outros endpoints.<br/>
 :clipboard: ◆ Adicione o JSON SERVER no repositório do projeto de automação.<br/>
 :clipboard: ◆ Você também deverá subir o JSON Server no repositório.<br/>
-:clipboard: ◆ Crie um READ ME para que as pessoas saibam como usar os endpoints criados e entender seu projeto.
+:clipboard: ◆ Crie um README para que as pessoas saibam como usar os endpoints criados e entender seu projeto.
 
 
 <br/>***<h2> :pencil: Observação: </h2>***
